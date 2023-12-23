@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.56877124.css",
-    "main.js": "./static/js/main.03ae453d.js",
+    "main.js": "./static/js/main.0397dbdb.js",
     "static/media/tablets-by-category.svg": "./static/media/tablets-by-category.528ae87df1a93cdb1339.svg",
     "static/media/phones-by-category.svg": "./static/media/phones-by-category.ddda3cd251982b6d32b9.svg",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -23,6 +23,7 @@
     "static/media/home-icon.svg": "./static/media/home-icon.e110292ae2cf67d0baca.svg",
     "static/media/search-loop.svg": "./static/media/search-loop.eb670dd9ac01a47e6e00.svg",
     "static/media/red-heart.svg": "./static/media/red-heart.d554a185325e4fb06092.svg",
+    "index.html": "./index.html",
     "static/media/close-image-cartitem.svg": "./static/media/close-image-cartitem.d99189a57063cb02e093.svg",
     "static/media/plus.svg": "./static/media/plus.dea157243cc9d361ac05.svg",
     "static/media/footer-arrow-top.svg": "./static/media/footer-arrow-top.a61ad2d0ea45d7c0fbc3.svg",
@@ -31,12 +32,11 @@
     "static/media/chevron-right-solid.svg": "./static/media/chevron-right-solid.9e14bc8d00d4db84e7a9.svg",
     "static/media/chevron-left-solid.svg": "./static/media/chevron-left-solid.c65c229995b234e3d187.svg",
     "static/media/minus.svg": "./static/media/minus.cce4862297a181fdf808.svg",
-    "index.html": "./index.html",
     "main.56877124.css.map": "./static/css/main.56877124.css.map",
-    "main.03ae453d.js.map": "./static/js/main.03ae453d.js.map"
+    "main.0397dbdb.js.map": "./static/js/main.0397dbdb.js.map"
   },
   "entrypoints": [
     "static/css/main.56877124.css",
-    "static/js/main.03ae453d.js"
+    "static/js/main.0397dbdb.js"
   ]
 }
